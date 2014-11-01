@@ -1,0 +1,21 @@
+doctype html
+html
+    head
+        title Sudden Death ASCII Art Generator
+        meta(charset="utf-8")
+        link(rel="stylesheet" href="./css/style.css")
+    body
+        h1.mod-h1
+            strong Sudden Death
+            |  ASCII Art Generator
+        form.mod-sudden_death.js-sudden_death
+            input.mod-sudden_death-input.js-sudden_death-input(placeholder="突然の死")
+            button.mod-sudden_death-submit.js-sudden_death-submit
+                span.mod-sudden_death-label Generate
+                span.mod-sudden_death-loading
+            textarea.mod-sudden_death-result.js-sudden_death-result(placeholder="＿人人人人人＿\n＞ 突然の死 ＜\n￣ＹＹＹＹＹ￣")
+        p.mod-link: a(href="https://chrome.google.com/webstore/detail/sudden-death/lpnndfjofikleagfedpbjcnaphhmjjpj" target="_blank") Get Chrome Extension
+        script(src="./js/lib/jquery-1.11.1.min.js")
+        script(src="./js/lib/jquery-ui.min.js")
+        script(src="./js/lib/jquery-ui.sudden-death.js")
+        script(src="./js/app.js")
