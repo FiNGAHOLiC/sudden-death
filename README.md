@@ -5,4 +5,4 @@ Generating Sudden-Death AA
 https://sudden-death.herokuapp.com/
 
 ## Chrome Extension
-https://sudden-death.herokuapp.com/
+https://chrome.google.com/webstore/detail/sudden-death/lpnndfjofikleagfedpbjcnaphhmjjpj
