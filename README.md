@@ -1,4 +1,4 @@
-# Sudden Death ASCII Art API
+# Sudden Death ASCII Art
 Generating Sudden-Death AA
 
 ## Web
