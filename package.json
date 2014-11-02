@@ -1,11 +1,11 @@
 {
-  "name": "sudden-death-api",
+  "name": "sudden-death",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "description": "API for Chrome Sudden Death ASCII Art Generator Extension (https://github.com/FiNGAHOLiC/sudden-death-chrome-extensions)",
+  "description": "Generating Sudden Death ASCII Art",
   "author": "fingaholic",
   "dependencies": {
     "express": "~4.10.1",
