@@ -1,4 +1,8 @@
 # Sudden Death ASCII Art API
-API for generating Sudden-Death AA
+Generating Sudden-Death AA
 
+## Web
+https://sudden-death.herokuapp.com/
+
+## Chrome Extension
 https://sudden-death.herokuapp.com/
